@@ -15,6 +15,10 @@ image:
   height: 500
 ---
 
+
+<iframe data-aa='1953952' src='//ad.a-ads.com/1953952?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+
+
 # Que hacer si se pierde o te roban el móvil?
 
 Si algún día te roban el movil o lo pierdes, tienes que hacer lo siguiente
