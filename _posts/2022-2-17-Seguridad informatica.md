@@ -2,7 +2,7 @@
 title: Seguridad Informatica
 author:
   name: Tomas Palma
-  link: https://github.com/tresillo2017/tresillo-blog/Seguridad-Informatica
+  link: https://github.com/tresillo2017/blog/Seguridad-Informatica
 date: 2022-02-17 10:28:00 +0800
 categories: [seguridad informatica]
 tags: [seguridad, informatica]
