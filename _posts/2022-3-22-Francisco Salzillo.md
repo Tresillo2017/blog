@@ -15,51 +15,108 @@ image:
   height: 500
 ---
 
+# Un poco de historia...
+Finales del siglo XVII y siglo XVIII es la época de mayor esplendor de las artes murcianas.
+Vienen a Murcia, artistas como: el estrasburgués Nicolás Bussi, el italiano Nicolás Salzillo, el francés Antonio Dupar…
 
-> Considerado uno de los grandes escultores del barroco español, la obra del artista murciano se basa fundamentalmente en la imaginería religiosa. Durante la Semana Santa tiene lugar en Murcia la conocida como "Procesión de los Salzillos", en la que se puede disfrutar de gran parte de su obra gracias a los pasos que pasean las cofradías.
+## Se dice que en 1700
+El virrey de Nápoles (provincia de España) trajo un notable escultor para presentarlo en la corte de Carlos II, se llamaba Nicolás Salzillo. Desembarcó en  el puerto de Cartagena, visitó la ciudad antes de partir a Madrid y quedó prendado de ella fijando su residencia y casándose con Isabel  Alcaraz. Fruto de esta unión nació Francisco, el mayor de 7 hermanos.
 
-# Introducción
+Llevó una sencilla vida en una Murcia borbónica.
+Nunca abandonó los principios de la formación recibida en los jesuitas y dominicos, asistía a diario a la iglesia del convento de las Capuchinas.
 
-Santos, Vírgenes con Niño, un belén abarrotado de figuras en movimiento. Francisco Salzillo creó todo un mundo de imágenes religiosas que transmiten emoción y fe. Nacido en Murcia el 12 de mayo de 1707, Salzillo está considerado uno de los artistas barrocos más importantes del siglo XVIII y uno de los mejores imagineros religiosos que ha dado este país. Dedicado enteramente al arte sacro, la obra del artista murciano fue evolucionando con el tiempo, y sus esculturas, que muestran un toque muy personal y algunas influencias del arte napolitano y francés, tienen ciertas reminiscencias del neoclásico y del rococó.
+![Desktop View](/img/Picture3.jpg){: width="972" height="589" }
+_Retrato_
+## Período de formación
+Estudió en el Colegio de San Esteban en Murcia (donde recibió clases de dibujo y color además de una cuidada formación intelectual).
+
+A los 15 años ingresó en el Convento de los Hijos de Santo Domingo de Guzmán y allí se dedicó a trabajos de imaginería para el monasterio durante cinco años.
+
+## Primeros años en el taller
+
+Cuando su padre Nicolás Salzillo muere en 1727, Francisco Salzillo tenía 20 años, se ve obligado a abandona el convento para ponerse al frente del taller y ayudar a su familia. Toda la familia (sus 6 hermanos y su madre) bajo la dirección de Francisco tomarán parte de las realizaciones artísticas.
+Su hermano José Antonio, devastaba y preparaba los troncos.
+Patricio se dedicaba a la policromía y a los ojos.
+Su hermana María Teresa, alternaba los trabajos de hogar con la ayuda al taller e Inés cuidaba la policromía de la estofa.
+Francisco aprendió de su padre todos los rudimentos y técnicas de la escultura.
+
+Su actividad escultórica de temática religiosa se plasma en trabajos sobre madera policromada, casi exclusivamente. Las figuras aparecen provistas de gran fuerza expresiva, acentuada en el rostro y las manos, y a modo de movimiento que les confiere realismo y viveza; y a pesar del dramatismo del gesto o la acción, entroncado en la mística espiritual, desprenden belleza y serenidad.
+Se observa una detallada representación del cabello y el vestuario.
+
+Su técnica artística partía del dibujo en papel, donde reflejaba el boceto de la escultura a desarrollar; a continuación la modelaba en arcilla, cera o yeso y la trasladaba a su taller.
+
+Salzillo siguiendo la tradición de los escultores españoles policromó y estofó  su obra.
+Utilizó el estofado en figuras principales como La Virgen, Cristo o Los Santos. Usaba medios tonos que combinaba con el oro, así conseguía sustituir las telas, lograr su característica originalidad y trasmitir el mensaje religioso.
+
+De esta primera época destacan;
+
+“La Sagrada Familia” de la parroquia de San Miguel (1735) o La Dolorosa de Santa Catalina.
+
+![Desktop View](/img/Picture4.jpg){: width="972" height="589" }
+_Sagrada familia Parroquia San Miguel_
+
+## Período de plenitud
+En 1744 muere su hermano José y un año después su madre. Fue un triste periodo para francisco hasta que en 1746 con 39 años contrae matrimonio con Juana Vallejos.
+
+Murcia como el resto del país vive un período de exaltación religiosa. La ciudad remoza y construye iglesias, se finaliza el imafronte de la catedral de Murcia, se organizan procesiones.
+Es un ambiente propicio para la imaginería religiosa.
+
+Es la época de plenitud de Salzillo. Destacan:
+
+*San Antón* (1746)
+: figura de gran solemnidad, donde los ropajes crean todo el movimiento expresivo del santo.
+![Desktop View](/img/Picture5.jpg){: width="972" height="589" }
+_San Anton (1746)_
+
+*San Jorge*
+: dotado de una policromia y movimiento propias del Barroco.
+
+*San Roque* (1757)
 
 
-# Una vida en Murcia
-Francisco Salzillo fue hijo del artista italiano Nicolás Salzillo, de quien heredó el taller cuando contaba tan solo con veinte años. Salzillo se formó como artista con la ayuda del capellán del coro de la iglesia de San Bartolomé, Manuel Sánchez Molina. Durante muchos años, la vida de Salzillo estuvo plenamente centrada en su trabajo en el taller, donde contaba con la ayuda de sus hermanos. Ya a los cuarenta años (una edad respetable para la época) se casaría con Juana Vallejo, con quien tuvo dos hijos, uno que murió al año de nacer y una hija a la que llamó María Fulgencia. Francisco Salzillo pasaría toda su vida en su Murcia natal y solo hay constancia de un viaje del artista a Cartagena, adonde fue para entregar personalmente una obra en 1755. Salzillo incluso llegó a rechazar una invitación para viajar a Madrid de parte del conde de Floridablanca, algo que le hubiera servido para darse a conocer en la Corte.
+## Por encargo realiza:
+A esta época pertenecen: El medallón de la Virgen de la Leche para el Oratorio de Marín y Llamas.
 
-> Francisco Salzillo pasaría toda su vida en su Murcia natal y solo hay constancia de un viaje del artista a Cartagena, adonde fue para entregar personalmente una obra en 1755.
+El Altar principal de la capilla del Hospital de San Juan de Dios y el magistral *San Jerónimo* cumbre del realismo ascético.
 
-Con el paso de los años, la obra del artista murciano alcanzaría tanta fama que empezó a recibir multitud de encargos, tanto de iglesias como de conventos de Murcia y también de las provincias vecinas. En 1755 fue nombrado Escultor Oficial del Concejo de Murcia e Inspector de Arte y Escultura. Tras la muerte su esposa en 1763, Salzillo empezó a reunirse cada vez más con otros artistas e intelectuales murcianos junto con los que en 1777 fundó la Real Sociedad Económica de Amigos del País de Murcia, institución que propició que dos años más tarde se creara la Escuela Patriótica de Dibujo con el propio Salzillo como primer director.
+Hay una gran demanda y la producción del taller es casi industrial.
 
+En *La Sagrada Familia* de Orihuela, el imaginero se expresa más allá de la devoción para llevarnos al concepto artístico del volumen.
 
-# La extensa obra de Salzillo
+### Pasos procesionales...
+Salzillo recibe el encargo por parte de la Cofradía de los Nazarenos (la más influyente de la región, creada en 1600) de la mayoría de los pasos de la procesión del Viernes Santo. Es el gran reto, porque ya no es una figura exenta de visión frontal para el altar, son escenas compositivas, además Salzillo se plantea rememorar el sufrimiento de Jesús, que podemos ver en el paso de La Caída y para reforzar tal belleza desde 1774 desfilarían los pasos desde el amanecer de Viernes Santo.
 
-El pintor, historiador, coleccionista y crítico de arte Juan Agustín Ceán Bermúdez atribuyó en su obra Diccionario de los profesores de las bellas artes en España, del año 1800, más de 1.500 obras a Salzillo, aunque seguramente esta cantidad es exagerada. De hecho, su primer biógrafo, Luis Santiago Bado, dijo: "Pudo llegar a contar ochocientas noventa y seis obras, salidas de sus manos: que, aunque sólo se calculen a dos figuras cada una (pues era rara la que, aunque fuese a una sola imagen, no llevase un grupo de ángeles, nubes, etc.) ascienden a mil setecientas noventa y dos". Sea como fuere, pesar de que los grupos procesionales realizados por Salzillo habían sido considerados como un grupo homogéneo y que las demás obras del artista habían sido contadas de forma errónea, Salzillo desarrolló una gran actividad artística entre los años 1727 y 1783. Por desgracia, la guerra civil española se llevó por delante muchas de sus creaciones, pero, por suerte, las que se conservan, pueden verse en numerosos museos de la región de Murcia.
+Dos años después se le encarga “La Oración del Huerto”, en el que se pueden distinguir dos planos: en un primer plano, los apóstoles dormidos sobre un montículo acomodan sus cuerpos sobre las rocas, Pedro, Santiago y Juan (símbolo de las tres edades de la vida). Jesús con las manos hacia el suelo con una expresión de intenso dolor y el ángel prototipo de belleza ideal, se funde con el Nazareno.
 
+El dinamismo es una característica de todos los pasos de Salzillo ya que :
 
-> A pesar de que los grupos procesionales habían sido considerados como un grupo homogéneo y de que las demás obras del artista habían sido contadas de forma errónea, Salzillo desarrolló una gran actividad artística entre los años 1727 y 1783.
+* todas las figuras aunque sean solitarias están realizadas para contemplarlas en desfiles procesionales. *La Verónica* *La Dolorosa* y *San Juan*.
 
+* *La Dolorosa* entre devoción religiosa y admiración artística, su rostro ha dado lugar a leyendas y explicaciones religiosa, acompañada por ángeles redonditos, con reminiscencias italianas.  (Se dice que su rostro parece corresponder a ciertos rasgos de Juana Vallejo, esposa de Salzillo).
+* *San Juan*, clasicista con ropaje barroco, es un hito de la imaginería española.
 
-Las obras más destacadas de la primera etapa de Salzillo como escultor fueron La Dolorosa, La Sagrada Familiay La Inmaculada. Durante aquel período, Salzillo, como hemos apuntado, recibió la ayuda de algunos de sus siete hermanos, como José Antonio, Patricio e Inés, que sería la encargada de realizar el dorado y estofado de las figuras, una técnica que utilizaba el pan de oro.A partir de 1740, Salzillo empezó a lucir un estilo propio, que podemos apreciar en el movimiento y la expresividad de las manos de sus figuras, lo que les proporciona una espiritualidad y una mística muy especiales como se aprecia en las imágenes de San Francisco y Santa Clara realizadas para el convento de Capuchinas, o en La Piedad expuesta en la parroquia de San Bartolomé de Murcia.
+* En *La Cena*, la actitud de los personajes crea una individualidad en la unidad de la escena, el movimiento de cada figura con el nexo de las manos dinamizan la composición en la sagrada conversación. Jesús se nos presenta reflexivo, presidiendo el acto. Toda la cena, la plata, los cubiertos, las viandas, responden al ceremonial dieciochesco.
 
+* *El Prendimiento* la detención de Jesús en el huerto de Getsemaní, San Pedro blande la espada con un brazo, que es un estudio perfecto de la anatomía, y cierra la composición el criado en el suelo. Después Jesús y Judas, fundidos en el mismo volumen, Jesús mira con perpleja bondad el descaro del apóstol, Judas entrega con el beso al Maestro, al fondo el soldado apoyado en la lanza.
 
-![Desktop View](/img/Salzillo.jpeg){: width="972" height="589" }
-_Foto: CC_
+* *La Flagelación* fue la  última obra que realizó para la Cofradia, tenía ya 71 años. Es una composición sencilla, cuatro elementos y en el centro, Jesús atado a la columna.
 
+En total estuvo 26 años trabajando para la Cofradía de Nuestro Padre Jesús Nazareno.
 
-# El Belén
+Llevaba una vida holgada pero jamás presumió de riquezas. Cuando en 1765 enviuda, su hija Fulgencia y sus dos nietos son su única alegría. Por aquella época recibió el encargo de realizar un belén para su amigo D. Jesualdo Riquelme y Fontes para instalarlo en su palacio en los días de Navidad.
 
-Entre la variada y amplia producción del maestro Salzillo, ocupa un lugar privilegiado su famoso Belén. Caracterizado por ser muy detallista, Salzillo lo realizó en 1776 por encargo de un amigo suyo llamado Jesualdo Riquelme y Fonte, que lo quería para decorar su palacio. El Belén está compuesto por 166 figuras humanas y 364 de animales de todo tipo. El paisaje y los edificios son de una gran perfección, puesto que describen con gran detalle las montañas y los elementos naturales, así como el palacio del rey Herodes, el Templo de Jerusalén y la posada a la que acudieron José y María, a la que dotó de muebles y objetos. Este Belén compagina aspectos de las Escrituras, así como detalles y tradiciones costumbristas de su época.
+Influenciado por los belenes napolitanos, Salzillo crea un belén observando la vida real, por ejemplo el Portal (entre la sencillez del Nacimiento y la exaltación barroca), pajes con la gracia de los vestidos dieciochescos… un espléndido mosaico popular de la Murcia de su tiempo: l a huevera, el chiquillo que baila, el ciego de la zanfonía…
 
-> Entre la variada y amplia producción del maestro Salzillo, ocupa un lugar privilegiado su famoso Belén.
+Cuando las fuerzas le flaquean para hacer grandes tallas, Salzillo realiza esta obra de pequeño tamaño con la expresividad barroca. En algunas figuras como la degollación de los inocentes es clara la mano de su discípulo Roque López.
 
-El Belén de Salzillo, que tiene su origen en la tradición del pesebre napolitano, creó una auténtica escuela de belenes que ha perdurado en Murcia hasta nuestros días. El primer catálogo descriptivos del Belén del maestro Salzillo es obra del escritor y erudito Javier Fuentes y Ponte en 1897. En 1914, esta obra de arte fue expuesta en el Museo Arqueológico Nacional de Madrid y regresó a Murcia un año después, cuando fue comprada por el Ministerio de Instrucción Pública y Bellas Artes. En un principio, la obra estuvo expuesta en el Museo de la Trinidad hasta que en 1956 fue trasladada definitivamente al Museo Salzillo, donde se ha expuesto en dos ocasiones más.
+En 1778 hacen socio a Salzillo de la Escuela de Bellas Artes, y a los 72 años se dedicó a enseñar dibujo.
 
+En 1783 falleció y recibió sepultura en el crucero de Las Capuchinas, toda la ciudad en pleno acudió al sepelio. Allí permaneció hasta que fue destruido el templo en 1937 y desaparecidos sus restos.
 
-# Los "Pasos" del artista
-
-La Semana Santa de Murcia, declarada de Interés Turístico Internacional, es un momento perfecto para disfrutar de la obra de Salzillo ya que es cuando las cofradías de esta región llevan a cabo la conocida como "Procesión de los Salzillos". Vista como un signo distintivo de la Semana Santa murciana, la obra del genial artista, así como la de uno de sus mejores discípulos, Roque López, se han convertido en unas de las más importantes de nuestro país. Salzillo murió el el 2 de marzo de 1783 siendo enterrado en el Convento de Capuchinas de Murcia. Si alguien desea rendir homenaje al insigne escultor y visitar su tumba deberá solicitar un permiso especial al obispado de Cartagena, ya que se trata de un convento de clausura.
-
-
-
-> Una pelicula para saber mas sobre Salzillo: Salzillo (1983) Director: Jose Antonio Postigo, Primitivo Perez
-{: .prompt-info }
+## Colecciones particulares:
+En ellas destacan esculturas de tipo devocional para oratorios particulares o conventos de clausura. Uno de los temas preferidos fue el del Niño que porta su propio corazón que conectaba con las corrientes de las compañías del Amor Divino. Este tema sirvió a los jesuitas para la elaboración de sus doctrinas y la difusión del culto al corazón que tuvo mucha respuesta en la Murcia barroca. El corazón era preludio o anuncio de la Pasión.
+![Desktop View](/img/Picture1.jpg){: width="972" height="589" }
+_Niño Jesús que muestra el corazón
+Madera policromada 34 x 18 x 13 cm
+Colección particular. Murcia
+Libro Huellas_
