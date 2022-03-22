@@ -133,7 +133,7 @@ _Rostro La Dolorosa_
 
 Otra de las leyendas que se le atribuyen al autor cuenta, que encontrandose agobiado por no saber plasmar el rostro de amargura en la Virgen de *Las Angustias* recurrio a esconder cuidadosamente el paradero de su sobrino. Su hermana agobiada ante la desapación de su retoño y ante los rumores de siniestros finales fue presa de la ansiedad y la amragura como madre. En ese momento, Salzillo la llevó a su estudio y la utilizó como modelo para reflejar aquella angustia que devió sentir la Virgen al sostener a su hijo muerto.
 
-![Desktop View](/img/Picture7.jpg){: width="243" height="147.25" }
+![Desktop View](/img/Picture7.JPG){: width="243" height="147.25" }
 _Virgen de las Angustias_
 
 Se dice que una hermana del artista que acabó sus días en la clausura confesó como pecado
