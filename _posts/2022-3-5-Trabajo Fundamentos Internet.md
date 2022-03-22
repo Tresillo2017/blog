@@ -1,5 +1,5 @@
 ---
-title: Trabajo Fundamentos Internet
+title: Fundamentos Internet
 author:
   name: Tomas Palma
   link: https://onedrive.live.com/View.aspx?resid=8DE491010A3D34B4!8706&wdSlideId=256&wdModeSwitchTime=1646521184456&authkey=!ADy-8f8SL7UA9Qo
