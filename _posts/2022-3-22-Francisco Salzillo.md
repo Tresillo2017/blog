@@ -25,7 +25,7 @@ El virrey de Nápoles (provincia de España) trajo un notable escultor para pres
 Llevó una sencilla vida en una Murcia borbónica.
 Nunca abandonó los principios de la formación recibida en los jesuitas y dominicos, asistía a diario a la iglesia del convento de las Capuchinas.
 
-![Desktop View](/img/Picture3.jpg){: width="972" height="589" }
+![Desktop View](/img/Picture3.jpg){: width="243" height="147.25" }
 _Retrato_
 ## Período de formación
 Estudió en el Colegio de San Esteban en Murcia (donde recibió clases de dibujo y color además de una cuidada formación intelectual).
@@ -52,7 +52,7 @@ De esta primera época destacan;
 
 “La Sagrada Familia” de la parroquia de San Miguel (1735) o La Dolorosa de Santa Catalina.
 
-![Desktop View](/img/Picture4.jpg){: width="486" height="294.5" }
+![Desktop View](/img/Picture4.jpg){: width="243" height="147.25" }
 _Sagrada familia Parroquia San Miguel_
 
 ## Período de plenitud
@@ -65,7 +65,7 @@ Es la época de plenitud de Salzillo. Destacan:
 
 *San Antón* (1746)
 : figura de gran solemnidad, donde los ropajes crean todo el movimiento expresivo del santo.
-![Desktop View](/img/Picture5.jpg){: width="486" height="294.5" }
+![Desktop View](/img/Picture5.jpg){: width="243" height="147.25" }
 _San Anton (1746)_
 
 *San Jorge*
