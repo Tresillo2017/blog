@@ -52,7 +52,7 @@ De esta primera época destacan;
 
 “La Sagrada Familia” de la parroquia de San Miguel (1735) o La Dolorosa de Santa Catalina.
 
-![Desktop View](/img/Picture4.jpg){: width="972" height="589" }
+![Desktop View](/img/Picture4.jpg){: width="486" height="294.5" }
 _Sagrada familia Parroquia San Miguel_
 
 ## Período de plenitud
@@ -65,7 +65,7 @@ Es la época de plenitud de Salzillo. Destacan:
 
 *San Antón* (1746)
 : figura de gran solemnidad, donde los ropajes crean todo el movimiento expresivo del santo.
-![Desktop View](/img/Picture5.jpg){: width="972" height="589" }
+![Desktop View](/img/Picture5.jpg){: width="486" height="294.5" }
 _San Anton (1746)_
 
 *San Jorge*
@@ -115,7 +115,7 @@ En 1783 falleció y recibió sepultura en el crucero de Las Capuchinas, toda la 
 
 ## Colecciones particulares:
 En ellas destacan esculturas de tipo devocional para oratorios particulares o conventos de clausura. Uno de los temas preferidos fue el del Niño que porta su propio corazón que conectaba con las corrientes de las compañías del Amor Divino. Este tema sirvió a los jesuitas para la elaboración de sus doctrinas y la difusión del culto al corazón que tuvo mucha respuesta en la Murcia barroca. El corazón era preludio o anuncio de la Pasión.
-![Desktop View](/img/Picture1.jpg){: width="972" height="589" }
+![Desktop View](/img/Picture1.jpg){: width="486" height="294.5" }
 _Niño Jesús que muestra el corazón
 Madera policromada 34 x 18 x 13 cm
 Colección particular. Murcia
