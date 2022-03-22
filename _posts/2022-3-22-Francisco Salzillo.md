@@ -116,6 +116,7 @@ En 1783 falleció y recibió sepultura en el crucero de Las Capuchinas, toda la 
 
 ## Colecciones particulares:
 En ellas destacan esculturas de tipo devocional para oratorios particulares o conventos de clausura. Uno de los temas preferidos fue el del Niño que porta su propio corazón que conectaba con las corrientes de las compañías del Amor Divino. Este tema sirvió a los jesuitas para la elaboración de sus doctrinas y la difusión del culto al corazón que tuvo mucha respuesta en la Murcia barroca. El corazón era preludio o anuncio de la Pasión.
+
 ![Desktop View](/img/Picture1.jpg){: width="243" height="147.25" }
 _Niño Jesús que muestra el corazón
 Madera policromada 34 x 18 x 13 cm
@@ -126,10 +127,12 @@ Libro Huellas_
 # Leyendas sobre el artista...
 Cuenta la tradición que se afanaba el artista en modelar la cabeza de su expresiva imagen *la Dolorosa*, hacia y desacía diseños y bocetos sin encontrar la expresión de dolor adecuada.
 De repente tuvo una gran idea, acusó a su esposa de infidelidad conyugal, para provocar en ella esa expresión de dolor que quería tallar. Por ello, se dice que para el rostro de *La Dolorosa* su esposa sirvio de modelo.
+
 ![Desktop View](/img/Picture6.jpg){: width="243" height="147.25" }
 _Rostro La Dolorosa_
 
 Otra de las leyendas que se le atribuyen al autor cuenta, que encontrandose agobiado por no saber plasmar el rostro de amargura en la Virgen de *Las Angustias* recurrio a esconder cuidadosamente el paradero de su sobrino. Su hermana agobiada ante la desapación de su retoño y ante los rumores de siniestros finales fue presa de la ansiedad y la amragura como madre. En ese momento, Salzillo la llevó a su estudio y la utilizó como modelo para reflejar aquella angustia que devió sentir la Virgen al sostener a su hijo muerto.
+
 ![Desktop View](/img/Picture7.jpg){: width="243" height="147.25" }
 _Virgen de las Angustias_
 
@@ -137,5 +140,6 @@ Se dice que una hermana del artista que acabó sus días en la clausura confesó
 haberle rezado a algunas de las esculturas de Francisco antes incluso de haber sido bendecidas.
 Y es que los rasgo de cada cara, de cada actitud aparecen tan limpios que se diria que son divinos.
 Incluso los extranjeros como Wellington llego a ofrecer 2 millones de pesetas por el angel y otro forastero llegó a intentar pagar en oro el peso del brazo de San Pedro.
+
 ![Desktop View](/img/Picture8.jpg){: width="243" height="147.25" }
 _San Pedro (detalle del brazo)_
