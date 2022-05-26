@@ -16,22 +16,15 @@ image:
 ---
 
 # Introduction
-**It's nearly** summer, so I've decided to write a blog entry making some resolutions, because I want to improve some things in my life before we start school again.
+Summer is coming so I’ve decided to write a blog entry describing some resolutions for the next academic year. I want to improve some things in my life before the start of school.
 
-## My Resolutions
-I promise I will be more aplied to my life and my work, but I will try to do it in a way that I can be more effective in my work.
-When someone asks me to help I will try to help him or her.
-As soon as I finish my homework, I will try to make sure that I have done it well, and that I understand what I did.
-I should be more concentrated in classes.
-
-## My Resolutions II
-This paragraph is more focused about my personal life and my own work.
-I'm good at planing projects and I'm good at doing them, but my main problem is that I have to many proyects open at the same time and I don't have time to do them, so my resolution for the next week is to do them in a way that I can do them in a better way and not expending to much time for nothing. So I don't overflow my time with useless projects.
-I should try to sleep more time and don't spend too much time in the computer.
+#	Academic life
+I promise I am going to be more dedicated in my life and my work, but I will try to do it in a way that I can be more efficient in my work. When someone asks me for help, I will try to help them. As soon as I finish my homework, I will try to make sure that I have done it well, and that I understand what I did. To do so, I know that I must be more focused in classes.
+#	Personal attitude 
+This paragraph is focused on my personal life and my own work. I think that I’m good at planning and developing projects. However, my main problem is that I usually have too many projects opened at the same time and  have no time to work on them.Therefore,  my resolution for the next academic year is that I am going to work on them in a more efficient way not expending so much time for nothing. Therefore, I will choose my projects more carefully taking into account what  I can learn from them and not spending time on useless projects. Finally, and not less important, I will try to sleep more and reduce the time spent in front of the computer.
+#	Conclusion
+I wish these resolutions helped me to improve my life and my work and to be a better person! .*Cya!*
 
 
-# Conclusion
-I hope that I have done everything that I can do to improve my life and my work!
-*Cya!*
 
 > Instead of focusing on what you can’t do, think about all of the things you can.
