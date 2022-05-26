@@ -8,7 +8,7 @@ categories: [Trabajos]
 tags: [english, blog, entry, classroom]
 comments: true
 toc: true
-render_with_liquid: false
+render_with_liquid: true
 image:
   src: /blogentry.jpg
   width: 800
