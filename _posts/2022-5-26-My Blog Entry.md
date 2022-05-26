@@ -2,7 +2,7 @@
 title: My Blog Entry
 author:
   name: Tomas Palma
-  link: https://tresillo2017.github.io/blog/posts/My-Blog-Entry/
+  link: https://blog.tomasps.tk/posts/My-Blog-Entry/
 date: 2022-05-26 11:40:00 +0800
 categories: [Trabajos]
 tags: [english, blog, entry, classroom]
