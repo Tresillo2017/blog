@@ -2,13 +2,13 @@
 title: Francisco Salzillo
 author:
   name: Tomas Palma
-  link:  https://tresillo2017.github.io/blog/posts/Francisco-Salzillo/
+  link:  https://blog.tomasps.tk/posts/Francisco-Salzillo/
 date: 2022-03-22 7:28:00 +0800
 categories: [Trabajos]
 tags: [Francisco Salcillo, trabajos, religion, biografias]
 comments: true
 toc: true
-render_with_liquid: false
+render_with_liquid: true
 image:
   src: /img/K3wxrC5L_4x.jpg
   width: 800
