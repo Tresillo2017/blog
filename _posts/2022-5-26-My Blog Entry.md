@@ -26,7 +26,7 @@ I should be more concentrated in classes.
 
 ## My Resolutions II
 This paragraph is more focused about my personal life and my own work.
-I'm good at planing proyects and I'm good at doing them, but my main problem is that I have to many proyects open at the same time and I don't have time to do them, so my resolution for the next week is to do them in a way that I can do them in a better way and not expending to much time for nothing. So I don't overflow my time with useless proyects.
+I'm good at planing projects and I'm good at doing them, but my main problem is that I have to many proyects open at the same time and I don't have time to do them, so my resolution for the next week is to do them in a way that I can do them in a better way and not expending to much time for nothing. So I don't overflow my time with useless projects.
 I should try to sleep more time and don't spend too much time in the computer.
 
 
